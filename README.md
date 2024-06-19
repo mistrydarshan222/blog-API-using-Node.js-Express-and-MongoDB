@@ -1,6 +1,5 @@
-## Created By 
-Name: Darshan Mistry
-Student Number: 8967753
+## Created By Darshan Mistry
+
 -----------------------------------------------------------------------------------------------------
 # Blog API
 This is a simple Node.js application using Express and MongoDB to manage a collection of blog posts.
